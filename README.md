@@ -1,2 +1,0 @@
-# php-contact-form
-Webコンタクトフォーム
